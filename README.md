@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+- 🎓 I'm a 3rd year student at SLIIT  
+- 💻 Looking for Fullstack Development opportunities  
+- 🌱 Currently learning & building personal projects  
+- 📫 How to reach me: [rashipabagimhani2112@gmail.com]
+- 🧠 Open to internships, freelance work, and tech collaborations
+
+
 <!--
 **moonlight2112/moonlight2112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
