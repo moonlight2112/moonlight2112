@@ -10,8 +10,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moonlight2112&layout=compact&theme=radical)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=moonlight2112&theme=radical)](https://git.io/streak-stats)
-
 <!--
 **moonlight2112/moonlight2112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
