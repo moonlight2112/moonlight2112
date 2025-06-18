@@ -6,6 +6,7 @@
 - 📫 How to reach me: [rashipabagimhani2112@gmail.com]
 - 🧠 Open to internships, freelance work, and tech collaborations
 
+![Rashipaba's GitHub Stats](https://github-readme-stats.vercel.app/api?username=moonlight2112&show_icons=true&theme=radical)
 
 <!--
 **moonlight2112/moonlight2112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
